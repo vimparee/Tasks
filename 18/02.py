@@ -4,4 +4,4 @@ def letter(name, date, email, place="Нефтекамск"):
     print(f"Были бы рады видеть вас на встрече начинающих программистов в {place}, которая пройдет {date}.")
 
 
-letter("Vadim", "12.05.2022", "test@mail.ru")
+letter("Evgeniy", "25.06.2022", "test@mail.ru")
